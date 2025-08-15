@@ -87,12 +87,12 @@ Modifique o código para mostrar rodas de acordo com o que foi enviado.
 
 ```javascript
     //Aqui vão as Rotas
-    if(url === '/') {
+    ('Pagina não encontrada');
+    }if(url === '/') {
         res.end('<h1>Mercadinho da Juju</ul>');
     } else {
        res.writeHead(404,'Pagina não encontrada',{ 'Content-Type': 'text/html; charset=utf-8' }) //rota nao cadastrada
-       res.end('Pagina não encontrada');
-    }
+       res.end
 ```
 
 ### Observações sobre o código:
