@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Pedro Abrantes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfJosueSenai/atividade-de-introducao-a-rotas-do-node-Pedro-ux-droid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProfJosueSenai/atividade-de-introducao-a-rotas-do-node-Pedro-ux-droid/issues"
+  },
+  "homepage": "https://github.com/ProfJosueSenai/atividade-de-introducao-a-rotas-do-node-Pedro-ux-droid#readme"
 }
